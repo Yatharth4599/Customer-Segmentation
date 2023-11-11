@@ -5,7 +5,7 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 
 ## Tableau Dashboard
-The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/profile/abhishek.chowdhury#!/vizhome/CustomerSegmentationDashboard_16175595616510/RFMDashboard).<br>
+
 <img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
 
 <b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>
@@ -143,11 +143,11 @@ The datasets used include:
 ## Tools and Technologies used
 The tools used in this project include:
 - __Python__ - This was needed to conduct <b>Data Quality Assessment</b> and also for <b>Data Cleaning processes</b>. With Python libraries <b>pandas, matplotlib, seaborn</b> exploratory data analysis of the datasets and to gain useful insights from the data was possible.
-- __Tableau__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Sales Dashboard for Customer Segmenatation</b> for the automobile bike company. The Tableau Sales Dashboard can be found [here](https://public.tableau.com/profile/abhishek.chowdhury#!/vizhome/CustomerSegmentationDashboard_16175595616510/RFMDashboard)
+- __Tableau__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>Sales Dashboard for Customer Segmenatation</b> for the automobile bike company.
 
 
 ## Built With
 - Python 3.8.2, Tableau
 
 ## Authors
-- Abhishek Chowdhury - [Github Profile](https://github.com/AbhishekGit-hash)
+- Yatharth Kher
